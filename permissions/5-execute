@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod +rwx hello
+*0;10;1c#!/bin/bash
+chmod +007 hello
